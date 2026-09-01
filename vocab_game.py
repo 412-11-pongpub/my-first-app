@@ -101,4 +101,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-  st.write("นายปองภพ สิงห์แก้ว เลขที่ 11 ม.4/11")
+  st.write("นายปองภพ สิงห์แก้ว เลขที11 ม.4/11")
